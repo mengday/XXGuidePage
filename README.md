@@ -19,7 +19,6 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     UITabBarController *viewController = [[UITabBarController alloc] init];
 
-
     self.window.rootViewController = [[[XXGuidePageViewController alloc] init] showGuidePageWithImages:@[@"guide-page-1", @"guide-page-2", @"guide-page-3", @"guide-page-4"] rootViewController:viewController];
     return YES;
 }
