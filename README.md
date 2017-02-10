@@ -2,6 +2,8 @@
 
 一个快速集成引导页功能的封装
 
+![效果图](https://github.com/mengday/XXGuidePage/blob/master/XXGuidePageExample/XXGuidePageExample/SnapShot.png)
+
 ---
 ## Getting Started【开始使用】
 
